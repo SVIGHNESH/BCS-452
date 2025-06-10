@@ -27,7 +27,7 @@ public class ObjectPrinting {
     System.out.println("Printing object:");
     System.out.println(student); // This calls toString() method
 
-    System.out.println("\nPrinting specific message:");
-    student.printSpecificMessage();
+    // System.out.println("\nPrinting specific message:");
+    // student.printSpecificMessage();
   }
 }
